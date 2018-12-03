@@ -1,0 +1,26 @@
+{
+  "name": "sir.bonaccorso.user_management",
+  "version": "1.0.1",
+  "description": "manage of users",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "users"
+  ],
+  "author": "Salvatore Bonaccorso <salvo.bonaccorso89@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalvatoreBonaccorso/User_management.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SalvatoreBonaccorso/User_management/issues"
+  },
+  "homepage": "https://github.com/SalvatoreBonaccorso/User_management#readme"
+}
